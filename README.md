@@ -7,8 +7,8 @@ In this method we create new pixels form the already given pixels. Each pixel is
 
 Example:
 initial image:
-| 1 | 2 |
-| 3 | 4 |
+1 2
+3 4
 step1:
 1 1 2 2
 3 3 4 4
