@@ -5,7 +5,7 @@ As its name suggest , in this method , we just replicate the neighboring pixels.
 WORKING:
 In this method we create new pixels form the already given pixels. Each pixel is replicated in this method n times row wise and column wise and you got a zoomed image. Its as simple as that.
 
-Example:
+Example: (open in edit or raw mode) : 
 initial image:
 1 2
 3 4
